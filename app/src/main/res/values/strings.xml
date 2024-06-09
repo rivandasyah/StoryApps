@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">TellYours</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Bagikan momen terbaikmu dengan teman-teman melalui foto dan teks</string>
+    <string name="title_welcome_page">Selamat datang di TellYours!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk upload story di TellYours?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="error">Password tidak boleh kurang dari 8 karakter</string>
+    <string name="true_email">\@gmail.com</string>
+    <string name="asik">Asik</string>
+    <string name="login_message">Selamat karena sudah berhasil login! Yuk, lanjutkan dengan upload story mu</string>
+    <string name="next">Lanjut</string>
+    <string name="empty">Mohon isi data terlebih dahulu.</string>
+    <string name="register_message">Akun sudah jadi nih. Yuk, login dan upload story mu</string>
+    <string name="log_out">Log Out</string>
+    <string name="item_name">Tell Your Story!</string>
+    <string name="item_date">Date of Story</string>
+    <string name="item_desc">Give a description about what your story is about</string>
+    <string name="yah">Yah :(</string>
+    <string name="error_400">Email sudah terdaftar nih</string>
+    <string name="error_400_login">Waduh, format email ada yang salah nih</string>
+    <string name="error_401_login">User tidak terdaftar nih di TellYours</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="choose_image">Pilih Gambar yang akan di-upload</string>
+    <string name="error_story_desc">Mohon mengisi deskripsi terlebih dahulu</string>
+    <string name="error_story_image">Mohon memilih gambar untuk di-upload terlebih dahulu</string>
+    <string name="erro_email">Make sure to enter a valid email address!</string>
+    <string name="maps">Maps</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="error_messagee">Wah, coba register dulu ya</string>
+    <string name="error_400_register">Mohon untuk menggunakan email yang lain</string>
+    <string name="error_201_register">Selamat datang di TellYours</string>
+    <string name="error_message_register">Coba cek sekali lagi apa datanya ada yang salah</string>
+    <string name="error_json">Terdapat error saat melakukan SignUp</string>
+    <string name="error_json_sign_up">Sepertinya ada error saat melakukan SignUp nih</string>
+    <string name="retry">Retry</string>
+
+</resources>
